@@ -1,0 +1,8 @@
+langchain
+langchain-community
+faiss-cpu
+langchain-google-genai
+google-generativeai
+fastapi
+streamlit
+python-multipart
